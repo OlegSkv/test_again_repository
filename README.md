@@ -1,3 +1,4 @@
+Add from PC with new-branch
 # test_again_repository
 New repository to remember
 
@@ -18,3 +19,4 @@ added this line before second pull request has done.
 
 
 resolve conflict problems
+
